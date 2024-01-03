@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @27mth
 - 👀 I’m interested in Games 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Html/CSS
 - 💞️ I’m looking to collaborate on an Animation project
 - 📫 How to reach me ...
 
